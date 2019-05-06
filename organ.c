@@ -1,10 +1,9 @@
 /*
-*    PICマイコンテスト用サンプルプログラム
-*    使用デバイス = PIC16F1503
-*    動作仕様
-*    クロック = 内部クロック(32MHz)
-*    周辺接続 = RC2-RC3にLED(L=点灯)
-*
+ * mini Electronic Organ
+ *
+ * Created: 2017/03/20
+ * Update : 2019/05/07
+ *  Author: jk1mly
 */
 
 #define _XTAL_FREQ        16000000
